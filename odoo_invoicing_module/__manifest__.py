@@ -11,6 +11,8 @@ the Sale Order product configurator.
     """,
     'author': 'Your Name',
     'website': 'https://yourwebsite.com',
+    'price': 300.00,  # Example price
+    'currency': 'USD', # Supported currencies are EUR and USD
     'category': 'Customizations',
     'license': 'LGPL-3',
     'depends': [
