@@ -4,7 +4,7 @@
     "version": "18.0.1.0.0",
     "sequence": -1000,
     "price": "300", 
-    "currency": "USD"
+    "currency": "USD",
     "summary": "Direct invoice creation with product attributes, dynamic headers, and CRM service history tracking.",
     "description": """
 Invoice Product Attribute Wizard & CRM Service History
